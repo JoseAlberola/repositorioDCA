@@ -25,7 +25,7 @@ int main() {
     int estadoUsuario;
     int return_value = 0;
     do{
-        printf(_("\n¿Cómo estás? \n"));
+        printf(_("\nCómo estás? \n"));
         printf(_("\t1. Genial, muchas gracias. \n"));
         printf(_("\t2. Sin mas, gracias por preguntar. \n"));
         printf(_("\t3. No he tenido un buen dia, pero gracias por preguntar. \n"));
