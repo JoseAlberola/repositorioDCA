@@ -34,7 +34,7 @@ int main() {
         if(return_value==0){
             empty_stdin();
         }
-    }while(true);
+    }while(estadoUsuario != 1 && estadoUsuario != 2 && estadoUsuario!=3);
 
     switch (estadoUsuario)
     {
