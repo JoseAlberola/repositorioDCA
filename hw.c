@@ -1,3 +1,5 @@
+// Jose Alberola Torres
+// 23901425D
 #include <stdio.h>
 #include <libintl.h>
 #include <locale.h>
