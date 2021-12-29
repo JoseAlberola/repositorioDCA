@@ -37,10 +37,10 @@ int main() {
     switch (estadoUsuario)
     {
     case 1:
-        printf(_("\n¡Me alegro mucho!"));
+        printf(_("\n¡Me alegro muchísimo!"));
         break;
     case 2:
-        printf(_("\nEsta bien, ¡de nada!"));
+        printf(_("\nEstá bien, ¡de nada!"));
         break;
     case 3:
         printf(_("\nNo todos los dias pueden ser buenos."));
