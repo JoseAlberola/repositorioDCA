@@ -48,5 +48,6 @@ int main() {
     }
 
     printf(_("\nGracias por contestar."));
+    printf(_("\n¡Nos vemos pronto!"));
     return 0;
 }
