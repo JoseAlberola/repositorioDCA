@@ -32,7 +32,7 @@ int main() {
         if(return_value==0){
             empty_stdin();
         }
-    }while(estadoUsuario != 1 && estadoUsuario != 2 && estadoUsuario!=3);
+    }while(true);
 
     switch (estadoUsuario)
     {
